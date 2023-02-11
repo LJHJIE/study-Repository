@@ -15,4 +15,4 @@ aliyun:
     endpoint: oss-cn-hangzhou.aliyuncs.com
     keyId: 阿里云AccessKey Id
     keySecret: 阿里云AccessKeySecret
-    bucketName: 仓库名称
+    bucketName: 存储库名称
