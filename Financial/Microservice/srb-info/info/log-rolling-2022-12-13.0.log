@@ -1,0 +1,7 @@
+2022-12-13 08:40:45 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-13 08:40:52 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 8.633 seconds (JVM running for 9.496)
+2022-12-13 08:49:29 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-13 08:49:33 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.673 seconds (JVM running for 6.62)
+2022-12-13 08:50:12 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:81 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中取值....
+2022-12-13 08:50:12 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl 数据存入redis...
+2022-12-13 21:47:25 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

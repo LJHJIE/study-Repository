@@ -1,0 +1,5 @@
+2022-12-18 20:28:42 [INFO ] http-nio-8110-exec-10 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：RETURN20221218202636113|0001|还款成功|1|1671366521642|500.00|0|9876543210
+2022-12-18 20:28:42 [INFO ] http-nio-8110-exec-10 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：61ab91815165d95636362b5d2079fd65
+2022-12-18 20:28:42 [INFO ] http-nio-8110-exec-10 LendReturnServiceImpl.java:124 com.atguigu.srb.core.service.impl.LendReturnServiceImpl 还款成功
+2022-12-18 20:29:23 [INFO ] http-nio-8110-exec-1 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：RETURN20221218202636028|教师贷001|999888|[{"toBindCode":"9efd37101a1a4ee6ac24dfbd41e18ee0","agentProjectCode":"LEND20221218202435890","baseAmt":0.00,"voteBillNo":"INVEST20221218202601631","benifitAmt":500.00,"feeAmt":0,"transitAmt":500.00}]|a609a500a5fd4c3ab1328c8ae59c328e||http://localhost/api/core/lendReturn/notifyUrl|http://localhost:3000/user|1671366563343|500.00|0|9876543210
+2022-12-18 20:29:23 [INFO ] http-nio-8110-exec-1 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：021d42b1c5044ecf4003137880fce499

@@ -1,0 +1,5 @@
+2022-12-14 22:24:01 [INFO ] http-nio-8110-exec-6 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：CHARGE20221214222401018|999888|9efd37101a1a4ee6ac24dfbd41e18ee0|10|0|http://localhost/api/core/userAccount/notify|http://localhost:3000/user|1671027841124|9876543210
+2022-12-14 22:24:01 [INFO ] http-nio-8110-exec-6 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：62ea41aa96f03e22c4f961462cf867d0
+2022-12-14 22:24:44 [INFO ] http-nio-8110-exec-8 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：CHARGE20221214222444422|999888|9efd37101a1a4ee6ac24dfbd41e18ee0|10|0|http://localhost/api/core/userAccount/notify|http://localhost:3000/user|1671027884951|9876543210
+2022-12-14 22:24:44 [INFO ] http-nio-8110-exec-8 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：1532ecb0768711dd77ccf9a97203e19e
+2022-12-14 22:29:50 [INFO ] http-nio-8110-exec-4 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：999888|2|2132000000000000|农业|465855555555555|19573524676|http://localhost/api/core/userBind/notify|慢慢|http://localhost:3000/user|1671028190427|9876543210

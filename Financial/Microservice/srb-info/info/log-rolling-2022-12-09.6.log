@@ -1,0 +1,4 @@
+2022-12-09 22:39:57 [INFO ] http-nio-8110-exec-3 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：7514b9943574e0142e8e523a9ce1a885
+2022-12-09 22:40:04 [INFO ] http-nio-8110-exec-4 UserBindController.java:56 com.atguigu.srb.core.controller.api.UserBindController 用户账号绑定异步回调：{"agentUserId":"1","resultCode":"0001","sign":"54ba65ed1fd9db1c9a9f81948ab42cbd","bindCode":"4bb2e3851a4543278358549c55272015","resultMsg":"成功","timestamp":"1670596803083"}
+2022-12-09 22:40:04 [INFO ] http-nio-8110-exec-4 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：1|4bb2e3851a4543278358549c55272015|0001|成功|1670596803083|9876543210
+2022-12-09 22:40:04 [INFO ] http-nio-8110-exec-4 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：54ba65ed1fd9db1c9a9f81948ab42cbd

@@ -1,0 +1,18 @@
+server:
+  port: 8130 # 服务端口
+
+spring:
+  profiles:
+    active: dev # 环境设置
+  application:
+    name: service-oss # 服务名
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848 # nacos服务地址
+aliyun:
+  oss:
+    endpoint: oss-cn-hangzhou.aliyuncs.com
+    keyId: LTAI5tAULMamXeB5XKkktrkU
+    keySecret: 9uDjbJoeYpXgQK5qaTkGXwvvivBpSW
+    bucketName: srb-file-longjinhua

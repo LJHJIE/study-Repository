@@ -1,0 +1,5 @@
+2022-12-15 15:51:09 [INFO ] http-nio-8110-exec-4 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：CHARGE20221215155032591|9efd37101a1a4ee6ac24dfbd41e18ee0|100|0|0|0001|充值成功|1671090637802|9876543210
+2022-12-15 15:51:09 [INFO ] http-nio-8110-exec-4 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：683781b467a4fd52f142640cad41e7c0
+2022-12-15 15:51:09 [INFO ] http-nio-8110-exec-4 UserAccountServiceImpl.java:74 com.atguigu.srb.core.service.impl.UserAccountServiceImpl 充值成功：{"chargeAmt":"100","hyFee":"0","mchFee":"0","resultCode":"0001","bindCode":"9efd37101a1a4ee6ac24dfbd41e18ee0","agentBillNo":"CHARGE20221215155032591","resultMsg":"充值成功","timestamp":"1671090637802"}
+2022-12-15 15:51:09 [WARN ] http-nio-8110-exec-4 UserAccountServiceImpl.java:84 com.atguigu.srb.core.service.impl.UserAccountServiceImpl 交易流水信息存在幂等性，停止回调重试...
+2022-12-15 21:11:17 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

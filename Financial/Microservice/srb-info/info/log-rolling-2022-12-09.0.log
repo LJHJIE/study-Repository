@@ -1,0 +1,7 @@
+2022-12-08 16:44:31 [INFO ] http-nio-8110-exec-2 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：ab224499689cc0798cbe8de6322f180a
+2022-12-08 16:44:52 [INFO ] http-nio-8110-exec-3 UserBindController.java:56 com.atguigu.srb.core.controller.api.UserBindController 用户账号绑定异步回调：{}{"agentUserId":"2","resultCode":"0001","sign":"4ec62dbbc33dee3b42137d857acb518b","bindCode":"ea50921b9f46457996be6566b8b1d40c","resultMsg":"成功","timestamp":"1670489091465"}
+2022-12-08 18:06:29 [INFO ] http-nio-8110-exec-5 DictServiceImpl.java:81 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中取值....
+2022-12-08 18:06:29 [INFO ] http-nio-8110-exec-5 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl 数据存入redis...
+2022-12-09 14:16:30 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-09 14:16:37 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 8.797 seconds (JVM running for 10.053)
+2022-12-09 14:48:01 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

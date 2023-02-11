@@ -1,0 +1,12 @@
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:64 com.atguigu.srb.core.listener.ExcelDictDTOListener 数据添加完成！
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=20004, parentId=20000, name=导游, value=4, dictCode=null)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=20005, parentId=20000, name=律师, value=5, dictCode=null)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=20006, parentId=20000, name=其他, value=6, dictCode=null)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=30000, parentId=1, name=学历, value=null, dictCode=education)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=30001, parentId=30000, name=高中, value=1, dictCode=null)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:61 com.atguigu.srb.core.listener.ExcelDictDTOListener 存储了5条数据到数据库
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:64 com.atguigu.srb.core.listener.ExcelDictDTOListener 数据添加完成！
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=30002, parentId=30000, name=大专, value=2, dictCode=null)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=30003, parentId=30000, name=本科, value=3, dictCode=null)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=30004, parentId=30000, name=研究生, value=4, dictCode=null)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=30005, parentId=30000, name=其他, value=5, dictCode=null)

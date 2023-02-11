@@ -1,0 +1,436 @@
+2022-12-14 08:54:06,873 INFO Starting Nacos v1.2.1 on 龙锦华 with PID 49168 (D:\StudyCode\Microservice\nacos-server-1.2.1\nacos\target\nacos-server.jar started by 17959 in D:\StudyCode\Microservice\nacos-server-1.2.1\nacos\bin)
+
+2022-12-14 08:54:06,877 INFO The following profiles are active: standalone
+
+2022-12-14 08:54:08,254 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$9b21802a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2022-12-14 08:54:08,318 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2022-12-14 08:54:08,320 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@239a307b' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2022-12-14 08:54:08,322 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$bff622dc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2022-12-14 08:54:08,326 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2022-12-14 08:54:08,889 INFO Tomcat initialized with port(s): 8848 (http)
+
+2022-12-14 08:54:08,909 INFO Starting service [Tomcat]
+
+2022-12-14 08:54:08,909 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2022-12-14 08:54:08,917 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_251\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\JVM\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_251\bin;C:\Program Files\Java\jdk1.8.0_251\jre\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\Apps\Nodejs\;D:\Apps\Nodejs\node_global;D:\Apps\Mysql\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;D:\Apps\VSCode\Microsoft VS Code\bin;.]
+
+2022-12-14 08:54:08,988 INFO Initializing Spring embedded WebApplicationContext
+
+2022-12-14 08:54:08,988 INFO Root WebApplicationContext: initialization completed in 2074 ms
+
+2022-12-14 08:54:10,323 INFO Reflections took 25 ms to scan 1 urls, producing 6 keys and 24 values 
+
+2022-12-14 08:54:10,350 INFO Reflections took 3 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2022-12-14 08:54:10,355 INFO Reflections took 3 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2022-12-14 08:54:11,071 INFO Use Mysql as the driver
+
+2022-12-14 08:54:11,412 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2022-12-14 08:54:11,523 INFO Adding welcome page: class path resource [static/index.html]
+
+2022-12-14 08:54:11,699 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2022-12-14 08:54:11,719 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@44828f6b, org.springframework.security.web.context.SecurityContextPersistenceFilter@4a335fa8, org.springframework.security.web.header.HeaderWriterFilter@c260bdc, org.springframework.security.web.csrf.CsrfFilter@4264b240, org.springframework.security.web.authentication.logout.LogoutFilter@30990c1b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3829ac1, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@15eebbff, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2dbe250d, org.springframework.security.web.session.SessionManagementFilter@2783717b, org.springframework.security.web.access.ExceptionTranslationFilter@5ad10c1a]
+
+2022-12-14 08:54:11,773 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2022-12-14 08:54:11,790 INFO Initializing ExecutorService 'taskScheduler'
+
+2022-12-14 08:54:11,857 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2022-12-14 08:54:11,861 INFO Started Nacos in 5.911 seconds (JVM running for 6.415)
+
+2022-12-14 08:54:11,861 INFO Nacos logs files: D:\StudyCode\Microservice\nacos-server-1.2.1\nacos\logs\
+
+2022-12-14 08:54:11,861 INFO Nacos conf files: D:\StudyCode\Microservice\nacos-server-1.2.1\nacos\conf\
+
+2022-12-14 08:54:11,861 INFO Nacos data files: D:\StudyCode\Microservice\nacos-server-1.2.1\nacos\data\
+
+2022-12-14 08:54:11,862 INFO Nacos started successfully in stand alone mode.
+
+2022-12-14 08:54:11,938 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2022-12-14 08:54:11,938 INFO Initializing Servlet 'dispatcherServlet'
+
+2022-12-14 08:54:11,946 INFO Completed initialization in 8 ms
+
+2022-12-14 09:04:10,933 INFO [capacityManagement] start correct usage
+
+2022-12-14 09:04:10,958 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 09:04:11,070 WARN clearConfigHistory start
+
+2022-12-14 09:14:10,962 INFO [capacityManagement] start correct usage
+
+2022-12-14 09:14:10,962 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 09:14:11,085 WARN clearConfigHistory start
+
+2022-12-14 09:24:10,964 INFO [capacityManagement] start correct usage
+
+2022-12-14 09:24:10,964 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 09:24:11,087 WARN clearConfigHistory start
+
+2022-12-14 09:34:10,965 INFO [capacityManagement] start correct usage
+
+2022-12-14 09:34:10,965 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 09:34:11,088 WARN clearConfigHistory start
+
+2022-12-14 09:44:10,967 INFO [capacityManagement] start correct usage
+
+2022-12-14 09:44:10,967 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 09:44:11,089 WARN clearConfigHistory start
+
+2022-12-14 09:54:10,967 INFO [capacityManagement] start correct usage
+
+2022-12-14 09:54:10,967 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 09:54:11,092 WARN clearConfigHistory start
+
+2022-12-14 10:04:10,969 INFO [capacityManagement] start correct usage
+
+2022-12-14 10:04:10,969 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 10:04:11,096 WARN clearConfigHistory start
+
+2022-12-14 10:14:10,973 INFO [capacityManagement] start correct usage
+
+2022-12-14 10:14:10,973 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 10:14:11,100 WARN clearConfigHistory start
+
+2022-12-14 10:24:10,977 INFO [capacityManagement] start correct usage
+
+2022-12-14 10:24:10,977 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 10:24:11,104 WARN clearConfigHistory start
+
+2022-12-14 10:34:10,981 INFO [capacityManagement] start correct usage
+
+2022-12-14 10:34:10,982 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 10:34:11,108 WARN clearConfigHistory start
+
+2022-12-14 10:44:10,983 INFO [capacityManagement] start correct usage
+
+2022-12-14 10:44:10,983 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 10:44:11,110 WARN clearConfigHistory start
+
+2022-12-14 10:54:10,984 INFO [capacityManagement] start correct usage
+
+2022-12-14 10:54:10,984 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 10:54:11,113 WARN clearConfigHistory start
+
+2022-12-14 11:04:10,986 INFO [capacityManagement] start correct usage
+
+2022-12-14 11:04:10,986 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 11:04:11,117 WARN clearConfigHistory start
+
+2022-12-14 11:14:10,989 INFO [capacityManagement] start correct usage
+
+2022-12-14 11:14:10,989 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 11:14:11,120 WARN clearConfigHistory start
+
+2022-12-14 11:24:10,992 INFO [capacityManagement] start correct usage
+
+2022-12-14 11:24:10,992 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 11:24:11,123 WARN clearConfigHistory start
+
+2022-12-14 13:33:35,145 WARN clearConfigHistory start
+
+2022-12-14 13:38:45,556 INFO [capacityManagement] start correct usage
+
+2022-12-14 13:38:45,556 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 13:43:35,147 WARN clearConfigHistory start
+
+2022-12-14 13:48:45,557 INFO [capacityManagement] start correct usage
+
+2022-12-14 13:48:45,557 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 13:53:35,148 WARN clearConfigHistory start
+
+2022-12-14 13:58:45,559 INFO [capacityManagement] start correct usage
+
+2022-12-14 13:58:45,559 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 14:03:35,151 WARN clearConfigHistory start
+
+2022-12-14 14:08:45,560 INFO [capacityManagement] start correct usage
+
+2022-12-14 14:08:45,560 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 14:13:35,155 WARN clearConfigHistory start
+
+2022-12-14 14:18:45,563 INFO [capacityManagement] start correct usage
+
+2022-12-14 14:18:45,563 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 14:23:35,157 WARN clearConfigHistory start
+
+2022-12-14 14:28:45,567 INFO [capacityManagement] start correct usage
+
+2022-12-14 14:28:45,567 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 14:33:35,159 WARN clearConfigHistory start
+
+2022-12-14 14:38:45,568 INFO [capacityManagement] start correct usage
+
+2022-12-14 14:38:45,568 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 14:43:35,170 WARN clearConfigHistory start
+
+2022-12-14 14:48:45,572 INFO [capacityManagement] start correct usage
+
+2022-12-14 14:48:45,579 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 14:53:35,179 WARN clearConfigHistory start
+
+2022-12-14 14:58:45,580 INFO [capacityManagement] start correct usage
+
+2022-12-14 14:58:45,580 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 15:03:35,181 WARN clearConfigHistory start
+
+2022-12-14 15:08:45,584 INFO [capacityManagement] start correct usage
+
+2022-12-14 15:08:45,584 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 15:13:35,185 WARN clearConfigHistory start
+
+2022-12-14 15:18:45,585 INFO [capacityManagement] start correct usage
+
+2022-12-14 15:18:45,593 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 15:23:35,194 WARN clearConfigHistory start
+
+2022-12-14 15:28:45,594 INFO [capacityManagement] start correct usage
+
+2022-12-14 15:28:45,594 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 15:33:35,199 WARN clearConfigHistory start
+
+2022-12-14 15:38:45,595 INFO [capacityManagement] start correct usage
+
+2022-12-14 15:38:45,595 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 15:43:35,203 WARN clearConfigHistory start
+
+2022-12-14 15:48:45,597 INFO [capacityManagement] start correct usage
+
+2022-12-14 15:48:45,597 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 15:53:35,204 WARN clearConfigHistory start
+
+2022-12-14 15:58:45,600 INFO [capacityManagement] start correct usage
+
+2022-12-14 15:58:45,600 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 16:03:35,206 WARN clearConfigHistory start
+
+2022-12-14 16:08:45,603 INFO [capacityManagement] start correct usage
+
+2022-12-14 16:08:45,603 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 16:13:35,207 WARN clearConfigHistory start
+
+2022-12-14 16:18:45,607 INFO [capacityManagement] start correct usage
+
+2022-12-14 16:18:45,607 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 16:23:35,216 WARN clearConfigHistory start
+
+2022-12-14 16:28:45,608 INFO [capacityManagement] start correct usage
+
+2022-12-14 16:28:45,608 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 16:33:35,228 WARN clearConfigHistory start
+
+2022-12-14 16:38:45,613 INFO [capacityManagement] start correct usage
+
+2022-12-14 16:38:45,613 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 16:43:35,232 WARN clearConfigHistory start
+
+2022-12-14 16:48:45,614 INFO [capacityManagement] start correct usage
+
+2022-12-14 16:48:45,614 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 16:53:35,234 WARN clearConfigHistory start
+
+2022-12-14 16:58:45,617 INFO [capacityManagement] start correct usage
+
+2022-12-14 16:58:45,617 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 17:03:35,238 WARN clearConfigHistory start
+
+2022-12-14 17:08:45,621 INFO [capacityManagement] start correct usage
+
+2022-12-14 17:08:45,621 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 17:13:35,240 WARN clearConfigHistory start
+
+2022-12-14 18:44:34,741 WARN clearConfigHistory start
+
+2022-12-14 18:46:54,195 INFO [capacityManagement] start correct usage
+
+2022-12-14 18:46:54,195 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 18:54:34,814 WARN clearConfigHistory start
+
+2022-12-14 18:56:54,198 INFO [capacityManagement] start correct usage
+
+2022-12-14 18:56:54,198 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 19:04:34,824 WARN clearConfigHistory start
+
+2022-12-14 19:06:54,203 INFO [capacityManagement] start correct usage
+
+2022-12-14 19:06:54,203 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 19:14:34,827 WARN clearConfigHistory start
+
+2022-12-14 19:16:54,205 INFO [capacityManagement] start correct usage
+
+2022-12-14 19:16:54,212 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 19:24:34,828 WARN clearConfigHistory start
+
+2022-12-14 19:26:54,214 INFO [capacityManagement] start correct usage
+
+2022-12-14 19:26:54,214 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 19:34:34,834 WARN clearConfigHistory start
+
+2022-12-14 19:36:54,217 INFO [capacityManagement] start correct usage
+
+2022-12-14 19:36:54,217 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 19:44:34,836 WARN clearConfigHistory start
+
+2022-12-14 19:46:54,219 INFO [capacityManagement] start correct usage
+
+2022-12-14 19:46:54,219 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 19:54:34,839 WARN clearConfigHistory start
+
+2022-12-14 19:56:54,221 INFO [capacityManagement] start correct usage
+
+2022-12-14 19:56:54,221 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 20:04:34,842 WARN clearConfigHistory start
+
+2022-12-14 20:06:54,226 INFO [capacityManagement] start correct usage
+
+2022-12-14 20:06:54,226 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 20:14:34,846 WARN clearConfigHistory start
+
+2022-12-14 20:16:54,227 INFO [capacityManagement] start correct usage
+
+2022-12-14 20:16:54,227 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 20:24:34,861 WARN clearConfigHistory start
+
+2022-12-14 20:26:54,237 INFO [capacityManagement] start correct usage
+
+2022-12-14 20:26:54,237 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 20:34:34,866 WARN clearConfigHistory start
+
+2022-12-14 20:36:54,238 INFO [capacityManagement] start correct usage
+
+2022-12-14 20:36:54,238 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 20:50:49,205 WARN clearConfigHistory start
+
+2022-12-14 20:58:30,364 INFO [capacityManagement] start correct usage
+
+2022-12-14 20:58:30,364 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 21:00:49,208 WARN clearConfigHistory start
+
+2022-12-14 21:08:30,366 INFO [capacityManagement] start correct usage
+
+2022-12-14 21:08:30,367 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 21:10:49,213 WARN clearConfigHistory start
+
+2022-12-14 21:18:30,368 INFO [capacityManagement] start correct usage
+
+2022-12-14 21:18:30,368 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 21:20:49,215 WARN clearConfigHistory start
+
+2022-12-14 21:28:30,369 INFO [capacityManagement] start correct usage
+
+2022-12-14 21:28:30,369 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 21:30:49,230 WARN clearConfigHistory start
+
+2022-12-14 21:38:30,379 INFO [capacityManagement] start correct usage
+
+2022-12-14 21:38:30,379 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 21:40:49,232 WARN clearConfigHistory start
+
+2022-12-14 21:48:30,380 INFO [capacityManagement] start correct usage
+
+2022-12-14 21:48:30,380 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 21:50:49,235 WARN clearConfigHistory start
+
+2022-12-14 21:58:30,384 INFO [capacityManagement] start correct usage
+
+2022-12-14 21:58:30,384 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 22:00:49,237 WARN clearConfigHistory start
+
+2022-12-14 22:08:30,385 INFO [capacityManagement] start correct usage
+
+2022-12-14 22:08:30,385 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 22:10:49,242 WARN clearConfigHistory start
+
+2022-12-14 22:18:30,386 INFO [capacityManagement] start correct usage
+
+2022-12-14 22:18:30,387 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 22:20:49,259 WARN clearConfigHistory start
+
+2022-12-14 22:28:30,390 INFO [capacityManagement] start correct usage
+
+2022-12-14 22:28:30,390 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 22:30:49,262 WARN clearConfigHistory start
+
+2022-12-14 22:38:30,392 INFO [capacityManagement] start correct usage
+
+2022-12-14 22:38:30,392 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 22:40:49,271 WARN clearConfigHistory start
+
+2022-12-14 22:48:30,393 INFO [capacityManagement] start correct usage
+
+2022-12-14 22:48:30,393 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-12-14 22:48:34,998 INFO Shutting down ExecutorService 'taskScheduler'
+
+2022-12-14 22:48:35,007 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+

@@ -1,0 +1,12 @@
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82002, parentId=82000, name=一本, value=null, dictCode=null)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82003, parentId=82000, name=二本, value=null, dictCode=null)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:61 com.atguigu.srb.core.listener.ExcelDictDTOListener 存储了5条数据到数据库
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:64 com.atguigu.srb.core.listener.ExcelDictDTOListener 数据添加完成！
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82004, parentId=82000, name=三本, value=null, dictCode=null)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82005, parentId=82000, name=高职高专, value=null, dictCode=null)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82006, parentId=82000, name=中职中专, value=null, dictCode=null)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82007, parentId=82000, name=高中及以下, value=null, dictCode=null)
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:61 com.atguigu.srb.core.listener.ExcelDictDTOListener 存储了4条数据到数据库
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:64 com.atguigu.srb.core.listener.ExcelDictDTOListener 数据添加完成！
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-1 ExcelDictDTOListener.java:54 com.atguigu.srb.core.listener.ExcelDictDTOListener 所有数据解析完成！
+2022-12-10 14:13:00 [INFO ] http-nio-8110-exec-2 DictServiceImpl.java:73 com.atguigu.srb.core.service.impl.DictServiceImpl 从redis中取值....

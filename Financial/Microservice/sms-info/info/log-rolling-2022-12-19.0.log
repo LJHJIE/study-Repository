@@ -1,0 +1,7 @@
+2022-12-18 20:18:43 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] keep-alive: timeout=60
+2022-12-18 20:18:43 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] transfer-encoding: chunked
+2022-12-18 20:18:43 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] 
+2022-12-18 20:18:43 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] false
+2022-12-18 20:18:43 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] <--- END HTTP (5-byte body)
+2022-12-18 20:18:43 [INFO ] http-nio-8120-exec-1 ApiSmsController.java:53 com.atguigu.srb.sms.controller.api.ApiSmsController result = false
+2022-12-19 14:44:03 [INFO ] main SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev

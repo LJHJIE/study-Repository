@@ -1,0 +1,5 @@
+2022-12-19 14:44:09 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.gateway.ServiceGatewayApplication Started ServiceGatewayApplication in 5.481 seconds (JVM running for 6.299)
+2022-12-21 17:38:41 [INFO ] main SpringApplication.java:655 com.atguigu.srb.gateway.ServiceGatewayApplication The following profiles are active: dev
+2022-12-21 17:38:44 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.gateway.ServiceGatewayApplication Started ServiceGatewayApplication in 4.615 seconds (JVM running for 5.629)
+2022-12-21 17:50:40 [INFO ] main SpringApplication.java:655 com.atguigu.srb.gateway.ServiceGatewayApplication The following profiles are active: dev
+2022-12-21 17:50:43 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.gateway.ServiceGatewayApplication Started ServiceGatewayApplication in 4.518 seconds (JVM running for 5.549)

@@ -1,0 +1,6 @@
+2022-12-09 22:31:19 [INFO ] http-nio-8110-exec-5 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl 数据存入redis...
+2022-12-09 22:35:26 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-09 22:35:30 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.614 seconds (JVM running for 6.488)
+2022-12-09 22:36:55 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-09 22:36:59 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.73 seconds (JVM running for 6.628)
+2022-12-09 22:39:57 [INFO ] http-nio-8110-exec-3 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：999888|1|251200000000000000|民生银行|431021200154548798|17147619536|http://localhost/api/core/userBind/notify|锦|http://localhost:3000/user|1670596797402|9876543210

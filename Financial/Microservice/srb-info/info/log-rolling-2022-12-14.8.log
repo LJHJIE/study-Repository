@@ -1,0 +1,5 @@
+2022-12-14 22:14:59 [INFO ] http-nio-8110-exec-6 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：d705fc0ead7c7ca78020167ab7589d40
+2022-12-14 22:17:05 [INFO ] http-nio-8110-exec-1 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：999888|2|12154484545110515|农业银行|54555555555555555|19573524676|http://localhost/api/core/userBind/notify|华|http://localhost:3000/user|1671027425545|9876543210
+2022-12-14 22:17:05 [INFO ] http-nio-8110-exec-1 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：923d405c0e61271ffb31a0c64fb355f9
+2022-12-14 22:19:10 [INFO ] http-nio-8110-exec-5 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：999888|2|2120000000000000|农业银行|4545555555555555|19573524676|http://localhost/api/core/userBind/notify|华|http://localhost:3000/user|1671027550983|9876543210
+2022-12-14 22:19:10 [INFO ] http-nio-8110-exec-5 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：960acec2e10a2ae194458dc309119d92

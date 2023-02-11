@@ -1,0 +1,20 @@
+2022-12-06 20:22:41 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:81 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中取值....
+2022-12-06 20:22:41 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl 数据存入redis...
+2022-12-06 20:24:19 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 20:29:08 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 20:29:36 [INFO ] http-nio-8110-exec-6 DictServiceImpl.java:81 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中取值....
+2022-12-06 20:29:36 [INFO ] http-nio-8110-exec-6 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl 数据存入redis...
+2022-12-06 20:31:06 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 20:34:34 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 20:34:39 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.479 seconds (JVM running for 6.449)
+2022-12-06 20:34:52 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 20:43:24 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 20:44:01 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 21:25:39 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 21:29:14 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 21:29:58 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 21:30:44 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 21:34:13 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 21:36:41 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 21:41:09 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-12-06 21:51:05 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

@@ -1,0 +1,6 @@
+2022-12-10 14:05:58 [INFO ] http-nio-8110-exec-8 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=20000, parentId=1, name=行业, value=null, dictCode=industry)
+2022-12-10 14:05:58 [INFO ] http-nio-8110-exec-8 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=20001, parentId=20000, name=IT, value=1, dictCode=null)
+2022-12-10 14:05:58 [INFO ] http-nio-8110-exec-8 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=20002, parentId=20000, name=医生, value=2, dictCode=null)
+2022-12-10 14:05:58 [INFO ] http-nio-8110-exec-8 ExcelDictDTOListener.java:37 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=20003, parentId=20000, name=教师, value=3, dictCode=null)
+2022-12-10 14:05:58 [INFO ] http-nio-8110-exec-8 ExcelDictDTOListener.java:61 com.atguigu.srb.core.listener.ExcelDictDTOListener 存储了5条数据到数据库
+2022-12-10 14:05:58 [INFO ] http-nio-8110-exec-8 ExcelDictDTOListener.java:64 com.atguigu.srb.core.listener.ExcelDictDTOListener 数据添加完成！

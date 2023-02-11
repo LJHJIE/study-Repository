@@ -1,0 +1,7 @@
+2022-12-14 22:29:50 [INFO ] http-nio-8110-exec-4 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：d29cb186a531d9c51e11d09ceaf19ba5
+2022-12-14 22:31:25 [INFO ] http-nio-8110-exec-6 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：999888|2|213420000000000|农业银行|465855555555555|19573524676|http://localhost/api/core/userBind/notify|慢慢|http://localhost:3000/user|1671028285595|9876543210
+2022-12-14 22:31:25 [INFO ] http-nio-8110-exec-6 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：74470882447c05134b91d82b1f025818
+2022-12-14 22:31:37 [INFO ] http-nio-8110-exec-7 UserBindController.java:56 com.atguigu.srb.core.controller.api.UserBindController 用户账号绑定异步回调：{"agentUserId":"2","resultCode":"0001","sign":"12c80ef79f0f8fa21bdf258a88a80974","bindCode":"041ad4a7bd6847e589f136aeabefa80c","resultMsg":"成功","timestamp":"1671028296182"}
+2022-12-14 22:31:37 [INFO ] http-nio-8110-exec-7 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：2|041ad4a7bd6847e589f136aeabefa80c|0001|成功|1671028296182|9876543210
+2022-12-14 22:31:37 [INFO ] http-nio-8110-exec-7 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：12c80ef79f0f8fa21bdf258a88a80974
+2022-12-15 08:47:43 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

@@ -1,0 +1,5 @@
+2022-12-08 15:36:51 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.313 seconds (JVM running for 6.153)
+2022-12-08 15:38:00 [INFO ] http-nio-8110-exec-4 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：999888|1|2354588777777777|民生银行|431021000000000|17147619536|http://localhost/api/core/userAccount/notify|华|http://localhost:3000/user|1670485080865|9876543210
+2022-12-08 15:38:00 [INFO ] http-nio-8110-exec-4 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：7bd52702df7bd898d4f20c36baaaac5c
+2022-12-08 15:39:27 [INFO ] http-nio-8110-exec-7 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：999888|1|2354588777777777|招商银行|431021000000000|19573524676|http://localhost/api/core/userAccount/notify|龙锦华|http://localhost:3000/user|1670485167543|9876543210
+2022-12-08 15:39:27 [INFO ] http-nio-8110-exec-7 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：b9bdd01e4b198c2e7474082c13551041

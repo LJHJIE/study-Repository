@@ -1,0 +1,6 @@
+2022-12-14 21:12:41 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.374 seconds (JVM running for 6.282)
+2022-12-14 22:10:11 [INFO ] http-nio-8110-exec-8 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：999888|1|1|1|1|1|http://localhost/api/core/userBind/notify|1|http://localhost:3000/user|1671027011954|9876543210
+2022-12-14 22:10:11 [INFO ] http-nio-8110-exec-8 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：8a757e56f7375a967182daef5e540d75
+2022-12-14 22:14:17 [INFO ] http-nio-8110-exec-5 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：999888|3|1|3|2|2|http://localhost/api/core/userBind/notify|1|http://localhost:3000/user|1671027257435|9876543210
+2022-12-14 22:14:17 [INFO ] http-nio-8110-exec-5 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：fc08b43f627e3cdabe92223a76dfe1c8
+2022-12-14 22:14:59 [INFO ] http-nio-8110-exec-6 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：999888|3|1|1|431021525410230152|1|http://localhost/api/core/userBind/notify|lo|http://localhost:3000/user|1671027299369|9876543210

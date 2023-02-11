@@ -1,0 +1,6 @@
+2022-12-18 13:40:27 [INFO ] http-nio-8110-exec-8 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：0be1dfda2c3391485a7ebbdd2ac7b140
+2022-12-18 13:40:27 [INFO ] http-nio-8110-exec-8 LendItemServiceImpl.java:160 com.atguigu.srb.core.service.impl.LendItemServiceImpl 投标成功
+2022-12-18 13:43:22 [INFO ] http-nio-8110-exec-9 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：LOAN20221218134322817|999888|LEND20221213215642893|499.9992000000|1671342202071|9876543210
+2022-12-18 13:43:22 [INFO ] http-nio-8110-exec-9 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：9feb12336e9504eb040e99431167b9cd
+2022-12-18 13:43:22 [INFO ] http-nio-8110-exec-9 LendServiceImpl.java:208 com.atguigu.srb.core.service.impl.LendServiceImpl 放款参数：{"agentId":"999888","agentProjectCode":"LEND20221213215642893","mchFee":499.9992000000,"sign":"9feb12336e9504eb040e99431167b9cd","agentBillNo":"LOAN20221218134322817","timestamp":1671342202071}
+2022-12-18 13:43:22 [INFO ] http-nio-8110-exec-9 RequestHelper.java:101 com.atguigu.srb.base.hfb.RequestHelper --> 发送请求到汇付宝：post data agentId=999888&agentProjectCode=LEND20221213215642893&mchFee=499.9992000000&sign=9feb12336e9504eb040e99431167b9cd&agentBillNo=LOAN20221218134322817&timestamp=1671342202071&

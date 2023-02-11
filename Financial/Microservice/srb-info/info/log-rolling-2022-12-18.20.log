@@ -1,0 +1,6 @@
+2022-12-18 20:07:59 [INFO ] http-nio-8110-exec-2 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：RETURN20221218134322232|0001|还款成功|2|1671365278049|41200.00|0|9876543210
+2022-12-18 20:07:59 [INFO ] http-nio-8110-exec-2 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：fe8338feaa7d03662f6265aee1d2dd98
+2022-12-18 20:07:59 [INFO ] http-nio-8110-exec-2 LendReturnServiceImpl.java:124 com.atguigu.srb.core.service.impl.LendReturnServiceImpl 还款成功
+2022-12-18 20:09:49 [INFO ] http-nio-8110-exec-5 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：RETURN20221218134322849|白领贷001|999888|[]|faab5b1f05b2449c9c2abe6a2c9ced2c||http://localhost/api/core/lendReturn/notifyUrl|http://localhost:3000/user|1671365389307|0.00|0|9876543210
+2022-12-18 20:09:49 [INFO ] http-nio-8110-exec-5 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：97edab0835663828cc471db3ddaf15da
+2022-12-18 20:09:55 [INFO ] http-nio-8110-exec-6 LendReturnController.java:65 com.atguigu.srb.core.controller.api.LendReturnController 还款异步回调：{"totalAmt":"0.00","successNum":"0","resultCode":"0001","sign":"12fb05b58ad18f4fc0124b01d7c514a7","agentBatchNo":"RETURN20221218134322849","voteFeeAmt":"0","resultMsg":"还款成功","timestamp":"1671365394082"}

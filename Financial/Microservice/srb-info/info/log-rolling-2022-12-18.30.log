@@ -1,0 +1,5 @@
+2022-12-18 20:21:44 [INFO ] http-nio-8110-exec-3 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：999888|4|43254000000000000|瑞士银行|46515458544511222|19987874598|http://localhost/api/core/userBind/notify|林|http://localhost:3000/user|1671366104197|9876543210
+2022-12-18 20:21:44 [INFO ] http-nio-8110-exec-3 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：07c186f1faa7b470b1107cafdd8fe827
+2022-12-18 20:21:52 [INFO ] http-nio-8110-exec-5 UserBindController.java:56 com.atguigu.srb.core.controller.api.UserBindController 用户账号绑定异步回调：{"agentUserId":"4","resultCode":"0001","sign":"954d412f35aa74363bb5f53f2dd9de57","bindCode":"a609a500a5fd4c3ab1328c8ae59c328e","resultMsg":"成功","timestamp":"1671366111450"}
+2022-12-18 20:21:52 [INFO ] http-nio-8110-exec-5 RequestHelper.java:43 com.atguigu.srb.base.hfb.RequestHelper 加密前：4|a609a500a5fd4c3ab1328c8ae59c328e|0001|成功|1671366111450|9876543210
+2022-12-18 20:21:52 [INFO ] http-nio-8110-exec-5 RequestHelper.java:45 com.atguigu.srb.base.hfb.RequestHelper 加密后：954d412f35aa74363bb5f53f2dd9de57
