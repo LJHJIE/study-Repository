@@ -13,6 +13,6 @@ spring:
 aliyun:
   oss:
     endpoint: oss-cn-hangzhou.aliyuncs.com
-    keyId: LTAI5tAULMamXeB5XKkktrkU
-    keySecret: 9uDjbJoeYpXgQK5qaTkGXwvvivBpSW
-    bucketName: srb-file-longjinhua
+    keyId: 阿里云AccessKey Id
+    keySecret: 阿里云AccessKeySecret
+    bucketName: 存储库名称

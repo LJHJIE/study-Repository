@@ -51,7 +51,7 @@ logging:
 aliyun:
   sms:
     region-id: cn-hangzhou
-    key-id: LTAI5tAULMamXeB5XKkktrkU
-    key-secret: 9uDjbJoeYpXgQK5qaTkGXwvvivBpSW
+    key-id: 阿里云AccessKey ID
+    key-secret: 阿里云AccessKey secret
     template-code: SMS_154950909
     sign-name: 阿里云短信测试
